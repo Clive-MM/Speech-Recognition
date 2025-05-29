@@ -1,7 +1,5 @@
 import speech_recognition as sr
-import nltk
-nltk.download('punkt')
-nltk.download('wordnet')
+
 
 
 def main():
